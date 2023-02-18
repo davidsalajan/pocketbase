@@ -19,7 +19,7 @@ require (
 	github.com/spf13/cobra v1.6.1
 	gocloud.dev v0.27.0
 	golang.org/x/crypto v0.3.0
-	golang.org/x/net v0.2.0
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.2.0
 	modernc.org/sqlite v1.19.4
 )
@@ -63,9 +63,9 @@ require (
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/image v0.1.0 // indirect
 	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/term v0.2.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/time v0.2.0 // indirect
 	golang.org/x/tools v0.3.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
